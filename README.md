@@ -1,3 +1,3 @@
-_This..._
+<p>_This..._
 ---
-is a _sample_ *website* for **Learn Enough HTML to Be Dangerous!**
+is a _sample_ *website* for **Learn Enough HTML to Be Dangerous!**</p>
